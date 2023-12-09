@@ -96,7 +96,7 @@ footer a:not(.nav-link) {
  
   @media (min-width: 768px) {
     #photo{
-      margin-left: 8000px;
+      margin-left: 80px;
     }
     .contant-section{
       display: flex;
